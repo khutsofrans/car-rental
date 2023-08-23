@@ -7,7 +7,7 @@ const Hero = () => {
                 <div className='absolute top-0 right-0 z-[1]'>
                     <Image src='/images/hero/hero-bg.png' alt="Backround" width={700} height={700} priority={true} />
                 </div>
-                <div className="w-full flex flex-col justify-start z-[2] ">
+                <div className="w-[950px] flex flex-col justify-start z-[2] ">
                     <h4 className="font-bold text-[#010103]">Plan your trip now</h4>
                     <h1 className="mt-[0.8rem] mb-[2rem] text-[#010103]">Save <span className="text-[#ff4d30]">big</span> with our car rental</h1>
                     <p className="mb-[3rem] text-[#706f7b]">Rent the car of your dreams. Unbeatable prices, unlimited kilos, flexible pick-up options and much more.</p>

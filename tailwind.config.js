@@ -19,11 +19,19 @@ module.exports = {
         '5xl': '0 10px 20px 0 rgba(0, 0, 0, 0.1)',
       },
       padding: {
-        'container': '0 2.5rem 0 2.5rem',
-        'box': '2rem 2.5rem 3rem 3.5rem',
+        'container': '0 20px 0 20px',
+        'box': '16px 20px 24px 28px',
+        'book': '9.6px 10.4px',
+        'plan': '42.4px 0',
+        'plan2': '0 24px',
+        'plan3': '8px 48px',
+        'pick': '80px 0',
+        'pickBox': '16px 28px',
       },
       margin:{
         'box': '0 auto',
+        'plan': '10.4px 0 24px 0',
+        'pick': '4px 0 8px 0',
       },
       gridTemplateColumns:{
         '3': '1fr 1fr 1fr' 
